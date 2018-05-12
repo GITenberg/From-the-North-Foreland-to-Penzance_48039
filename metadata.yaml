@@ -1,9 +1,13 @@
 _repo: From-the-North-Foreland-to-Penzance_48039
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Randall, Maurice
     gutenberg_agent_id: '44593'
     url: http://www.gutenberg.org/2009/agents/44593
+covers:
+- cover_type: archival
+  image_path: 48039-h/images/cover.jpg
 creator:
   author:
     agent_name: Holland, Clive
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '40880'
     url: http://www.gutenberg.org/2009/agents/40880
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48039#From-the-North-Foreland-to-Penzance
 gutenberg_issued: '2015-01-21'
 gutenberg_type: Text
 identifiers:
